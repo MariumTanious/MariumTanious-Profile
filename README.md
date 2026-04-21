@@ -1,55 +1,50 @@
-# About Me - Marium Tanious
+#  Hi, I'm Marium Tanious
 
 ##  IT Engineer | DevOps Enthusiast
 
-Hello! I’m **Marium Tanious**, an IT Engineer passionate about **DevOps, Linux systems, and automation**.
+I’m an IT Engineer based in Egypt, passionate about DevOps, Linux systems, and automation.
 
-I enjoy building practical solutions using Bash scripting, working with Linux environments, and understanding how systems and infrastructure work behind the scenes.
+I enjoy building Bash scripts, working with Linux environments, and understanding how systems work behind the scenes.
 
 ---
 
 ##  What I Do
-
-- Develop Bash scripts for automation and system tasks  
-- Work with Linux and Windows server environments  
-- Explore CI/CD concepts and DevOps practices  
-- Learn cloud and infrastructure fundamentals  
-- Practice cybersecurity and system administration labs  
-
----
-
-##  Technical Skills
-
-- Linux (Ubuntu, Kali)
-- Bash Scripting
-- Windows Server Administration
-- Networking Fundamentals
-- Virtualization (VMware, VirtualBox)
-- CI/CD Basics (GitHub Actions)
-- Cybersecurity Fundamentals
+- Linux system administration  
+- Bash scripting & automation  
+- CI/CD fundamentals  
+- Cloud & infrastructure basics  
+- Cybersecurity labs  
 
 ---
 
-##  Projects
+##  Tech Stack
 
--  Custom Grep Script – A Bash tool for searching text inside files  
--  CI/CD Practice Projects – Basic automation pipelines using GitHub Actions  
--  Cybersecurity Labs – Hands-on practice with security tools and concepts  
--  System Administration Labs – Linux & Windows server practice environments  
-
----
-
-##  Career Goal
-
-To become a professional **DevOps Engineer** specializing in automation, cloud infrastructure, and scalable system design.
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
-## Connect with Me
+## Projects
 
-- GitHub: MariumTanious  
-- LinkedIn: https://www.linkedin.com/in/mariumtaniouslamye/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxrCp7f0QLmAtExKONJTgw%3D%3D
+-  Custom Grep Tool – Bash script for searching text in files  
+-  CI/CD Practice Projects – GitHub Actions automation  
+-  Linux System Admin Labs – Practice environments  
+-  Cybersecurity Labs – Security tools & practice
 
 ---
 
-⭐ Always learning, always improving, always building.
+##  GitHub Stats
+
+![Marium's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariumTanious&show_icons=true)
+
+---
+
+##  Goal
+To become a professional DevOps Engineer specializing in automation, cloud infrastructure, and scalable systems.
+
+---
+
+ Always learning, always improving.
